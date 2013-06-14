@@ -1,0 +1,7 @@
+#include "..\include\Resources.h"
+
+RES_TEX_COW	
+RES_OBJ_COW
+RES_SHADER_FRAG_BASIC
+RES_SHADER_VERT_BASIC
+RES_GLOW_RED_TEX
